@@ -8,4 +8,4 @@ core.symlinks=false
 core.ignorecase=true
 core.hidedotfiles=dotGitOnly
 user.name=myname
-user.mail=me.myself@gmail.com
+
